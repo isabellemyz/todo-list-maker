@@ -1,5 +1,5 @@
 # todo-list-maker
 
-- simple todo list maker for CSDS 221
-- JS, React, & MUI
-- made on StackBlitz
+- class project for CSDS 221
+- exploring frameworks (React)!
+- feel free to make some new tasks for yourself :)
