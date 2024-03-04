@@ -1,3 +1,5 @@
-# todo-list-maker-2
+# todo-list-maker
 
-[Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/isabellemyz/todo-list-maker-2)
+- simple todo list maker for CSDS 221
+- JS, React, & MUI
+- made on StackBlitz
